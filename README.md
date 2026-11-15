@@ -1,4 +1,5 @@
-# Voice of Terra · 主线 7 章·苦难摇篮配音分站
+# Voice of Terra · vot-audio-20200501
 
-本仓库存放主线 7 章·苦难摇篮的凯尔希音色 MP3，供[主网页](https://luoul-123.github.io/voice-of-terra-for-arknights/)读取。
-音频为非官方同人合成内容；剧情和角色版权归原权利人所有。
+更新时间：2026-11-15 
+主线第7章《苦难摇篮》剧情配音静态文件。阅读请前往[主站](https://luoul-123.github.io/voice-of-terra-for-arknights/)。
+这是非官方同人项目，音频和角色内容归其相应权利人所有。
